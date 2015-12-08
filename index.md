@@ -2,6 +2,7 @@
 layout: notitle
 title: Workshop 2016
 long-title: Hyōhō Niten Ichi-ryū Workshop&nbsp;2016
+hide: true
 ---
 
 ![Banner](/img/hnir_banner.jpg)
