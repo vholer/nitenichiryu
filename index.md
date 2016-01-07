@@ -7,12 +7,19 @@ hide: true
 
 ![Banner](/img/hnir_banner.jpg)
 
-# Price
+# Fees
 
 | 5 days (all days of workshop) | 200€ |
 | 1 day                         |  50€ |
 
-Bank transfer: account will be announced soon
+#### International payment
+
+Petr Novotny<br />
+**IBAN:** CZ66 3030 0000 0014 6861 1012<br />
+**SWIFT/BIC:** AIRACZPP (or AIRACZPPXXX if necessary to allign at 11 characters)<br />
+Air Bank a.s., Hraskeho 2231/25, 148 00 Praha 11 – Chodov, Czech Republic
+
+Please write a participant's name in money transfer note.
 
 # Location 
 
