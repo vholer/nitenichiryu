@@ -14,7 +14,7 @@ hide: true
 
 #### International payment
 
-Petr Novotny<br />
+**Recipient:** Petr Novotny, Vendoli 259, 569 14 Vendoli<br />
 **IBAN:** CZ66 3030 0000 0014 6861 1012<br />
 **SWIFT/BIC:** AIRACZPP (or AIRACZPPXXX if necessary to allign at 11 characters)<br />
 Air Bank a.s., Hraskeho 2231/25, 148 00 Praha 11 – Chodov, Czech Republic
