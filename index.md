@@ -12,7 +12,7 @@ hide: true
 | 5 days (all days of workshop) | 200€ |
 | 1 day                         |  50€ |
 
-#### International payment
+### International payment
 
 **Recipient:** Petr Novotny, Vendoli 259, 569 14 Vendoli<br />
 **IBAN:** CZ66 3030 0000 0014 6861 1012<br />
@@ -20,6 +20,10 @@ hide: true
 Air Bank a.s., Hraskeho 2231/25, 148 00 Praha 11 – Chodov, Czech Republic
 
 Please write a participant's name in money transfer note.
+
+### Czech domestic payment
+
+**Account:** 1468611012/3030
 
 # Location 
 
