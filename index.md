@@ -9,8 +9,8 @@ hide: true
 
 # Fees
 
-| 5 days (all days of workshop) | 200€ |
-| 1 day                         |  50€ |
+| 5 days (all days of workshop) | 200€ | 5200 CZK |
+| 1 day                         |  50€ | 1300 CZK |
 
 ### International payment
 
