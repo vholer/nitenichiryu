@@ -55,8 +55,6 @@ There are few rooms booked in the pension. If you want to use this reservation, 
 
 There are few standard rooms already booked. If you are interested, please contact hotel with note: "Workshop HNIR 2016".
 
-This accommodation has to be confirmed till the end of the *January 2016*.
-
 ### Other
 
 There are other options in Letovice, Boskovice, Býkovice, Brno.
