@@ -1,14 +1,87 @@
 ---
 layout: notitle
 title: Workshop 2016
-long-title: Hyōhō Niten Ichi-ryū Workshop&nbsp;2016
+long-title: Hyōhō Niten Ichi-ryū Workshop&nbsp;2016<br />
+  <small>with sensei Takanori&nbsp;Kajiya, 12<sup>th</sup>&nbsp;soke</small>
 hide: true
 ---
 
 ![Banner](/img/hnir_banner.jpg)
 
-# Fees
+# Program
 
+<table>
+  <thead>
+    <tr>
+      <th>Day</th>
+      <th style="text-align: center">9 am - 12 pm</th>
+      <th style="text-align: center">3 pm - 4 pm</th>
+      <th style="text-align: center">4 pm - 6 pm</th>
+      <th style="text-align: center">8 pm</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Wednesday, 6. 7.</td>
+      <td style="text-align: center">Keiko<sup>1</sup></td>
+      <td style="text-align: center" colspan="2">Free keiko<sup>2</sup></td>
+      <td style="text-align: center">Welcome party</td>
+    </tr>
+    <tr>
+      <td>Thursday, 7. 7.</td>
+      <td style="text-align: center">Keiko<sup>1</sup></td>
+      <td style="text-align: center" colspan="2">Free keiko<sup>2</sup></td>
+      <td style="text-align: center"> </td>
+    </tr>
+    <tr>
+      <td>Friday, 8. 7.</td>
+      <td style="text-align: center">Keiko<sup>1</sup></td>
+      <td style="text-align: center" colspan="2">Free keiko<sup>2</sup></td>
+      <td style="text-align: center"> </td>
+    </tr>
+    <tr>
+      <td>Saturday, 9. 7.</td>
+      <td style="text-align: center">Keiko<sup>1</sup></td>
+      <td style="text-align: center">Castle visit</td>
+      <td style="text-align: center">Free keiko<sup>2</sup></td>
+      <td style="text-align: center">Sayonara party</td>
+    </tr>
+    <tr>
+      <td>Sunday, 10. 7.</td>
+      <td style="text-align: center">Keiko<sup>1</sup></td>
+      <td style="text-align: center" colspan="2">Free keiko<sup>2</sup></td>
+      <td style="text-align: center"> </td>
+    </tr>
+  </tbody>
+</table>
+
+<!--
+| Day              | 9 am - 12 pm | 3 pm - 4 pm   | 4 pm - 6 pm  | 8 pm                                  |
+|------------------|:------------:|:-------------:|:------------:|:-------------------------------------:|
+| Wednesday, 6. 7. |   Keiko<sup>1</sup>      |  Free keiko<sup>2</sup>   | Free keiko<sup>2</sup> | Welcome party |
+| Thursday, 7. 7.  |   Keiko<sup>1</sup>      |  Free keiko<sup>2</sup> | Free keiko<sup>2</sup> |                                       |
+| Friday, 8. 7.    |   Keiko<sup>1</sup>      |  Free keiko<sup>2</sup> | Free keiko<sup>2</sup> |                                       |
+| Saturday, 9. 7.  |   Keiko<sup>1</sup>      |  Castle visit           | Free keiko<sup>2</sup> | Sayonara party |
+| Sunday, 10. 7.   |   Keiko<sup>1</sup>      |  Free keiko<sup>2</sup> | Free keiko<sup>2</sup> |                                       |
+-->
+
+<sup>1</sup>) in school gymnasium
+
+<sup>2</sup>) in castle gardens in good weather
+
+HNIR seminar will be a part of the Japanese Days in Lysice castle.
+It will be great honour to introduce the school to the public here. All practice
+in castle gardens is freely accessible to visitors of the Lysice castle.
+There will be also other interesting presentations of Japanese culture and
+art for castle visitors and for us as well.
+
+On Wednesday there will be welcome party in the castle courtyard.
+The sayonara party with Czech and Moravian folklore music takes place
+in brewery cellar in Černá Hora on Saturday. Both begins at 8 pm.
+Castle visit on Saturday afternoon is free for all seminar participants.
+You can see very nice pieces of swords and armour in the castle armoury.
+
+# Fees
 
 |                               | International payment | Domestic payment |
 |-------------------------------|-----------------------|------------------|
@@ -33,6 +106,8 @@ Please write a participant's name in money transfer note.
 Edvard Beneš Elementary School, Zákostelí 360, 679 71 Lysice, Czech Republic
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2593.475617333878!2d16.53418171569561!3d49.45662727935053!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x471287a805f3fd25%3A0x4eb553e0d22aec61!2sZ%C3%A1kostel%C3%AD+360%2C+679+71+Lysice!5e0!3m2!1scs!2scz!4v1448890082691" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
+
+
 # Accomodation
 
 ### [Pension Sladovna](http://www.hotelsladovna.cz/en/accommodation/pension)
@@ -43,7 +118,7 @@ Edvard Beneš Elementary School, Zákostelí 360, 679 71 Lysice, Czech Republic
 
 **Website:** [http://www.hotelsladovna.cz/en/accommodation/pension](http://www.hotelsladovna.cz/en/accommodation/pension)
 
-There are few rooms booked in the pension. If you want to use this reservation, please contact the hotel with note: "International seminar - Petr Novotny". Soke will be at the same place, but in the Hotel Sladovna.
+There are few rooms booked in the pension. If you want to use this reservation, please contact the hotel with note: "International seminar - Petr Novotny". Soke will be at the same place, but in Hotel Sladovna.
 
 ### [Hotel Lysice](http://hotellysice.cz/en/portfolio-item/standard-without-tv/)
 
