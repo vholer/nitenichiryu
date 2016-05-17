@@ -8,7 +8,7 @@ hide: true
 
 ![Banner](/img/hnir_banner.jpg)
 
-# Program
+# Schedule
 
 <table>
   <thead>
