@@ -86,7 +86,7 @@ You can see very nice pieces of swords and armour in the castle armoury.
 |                               | International payment | Domestic payment |
 |-------------------------------|-----------------------|------------------|
 | 5 days (all days of workshop) | 200€                  | 5200 CZK         |
-| 1 day                         |  45€                  | 1300 CZK         |
+| 1 day                         |  45€                  | 1200 CZK         |
 
 ### International payment
 
