@@ -8,6 +8,10 @@ hide: true
 
 ![Banner](/img/hnir_banner.jpg)
 
+<center>All participants must be registered in advance.</center>
+
+<a href='https://docs.google.com/forms/d/1xRO4e40FVYA7LOBzNkDEaDHT2sKtAiXWq_F2hHWRyQk' style='background-color: #efefef; text-decoration: none; text-align: center; display: block; margin: 1.5rem auto; width: 220px; font-size: 1.375rem; color: #333; line-height: 55px;'>Register here</a>
+
 # Schedule
 
 <table>
@@ -77,7 +81,7 @@ art for castle visitors and for us as well.
 
 On Wednesday there will be welcome party in the castle courtyard.
 The sayonara party with Czech and Moravian folklore music takes place
-in brewery cellar in Černá Hora on Saturday. Both begins at 8 pm.
+in brewery cellar in Černá Hora on Saturday. Both begin at 8 pm.
 Castle visit on Saturday afternoon is free for all seminar participants.
 You can see very nice pieces of swords and armour in the castle armoury.
 
