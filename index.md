@@ -107,10 +107,16 @@ Please write a participant's name in money transfer note.
 
 # Location 
 
+Printable maps:
+
+* [Lysice and neighbourhood](pdf/map-lysice1.pdf),
+* [Lysice](pdf/map-lysice2.pdf) and
+* [Černá Hora](pdf/map-cernahora.pdf)
+
+### Gymnasium (morning keiko)
+
 Edvard Beneš Elementary School, Zákostelí 360, 679 71 Lysice, Czech Republic
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2593.475617333878!2d16.53418171569561!3d49.45662727935053!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x471287a805f3fd25%3A0x4eb553e0d22aec61!2sZ%C3%A1kostel%C3%AD+360%2C+679+71+Lysice!5e0!3m2!1scs!2scz!4v1448890082691" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
-
-
 
 # Accomodation
 
